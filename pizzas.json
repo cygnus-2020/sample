@@ -1,1 +1,137 @@
-[{"id":1,"name":"Capricciosa","ingredients":["tomato sauce","mozzarella","mushrooms","ham","olives"]},{"id":2,"name":"Quattro Formaggi","ingredients":["tomato sauce","mozzarella","parmesan cheese","blue cheese","goat cheese"]},{"id":3,"name":"Napoletana","ingredients":["tomato sauce","anchovies","olives","capers"]},{"id":4,"name":"Margherita","ingredients":["tomato sauce","mozzarella"]}]
+[
+    {
+        "id": 1,
+        "name": "Margherita",
+        "shortDescription":"A classic delight with 100% Real mozzarella cheese",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 99        
+    },
+    {
+        "id": 2,
+        "name": "Margherita",
+        "shortDescription":"A classic delight with 100% Real mozzarella cheese",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 174
+    },
+    {
+        "id": 3,
+        "name": "Margherita",
+        "shortDescription":"A classic delight with 100% Real mozzarella cheese",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 129
+    },
+    {
+        "id": 4,
+        "name": "Classic Cheese",
+        "shortDescription":"Sweet & Juicy Golden corn and 100% real mozzarella cheese in a delectable combination !",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 165        
+    },
+    {
+        "id": 5,
+        "name": "Classic Cheese",
+        "shortDescription":"Sweet & Juicy Golden corn and 100% real mozzarella cheese in a delectable combination !",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 240
+    },
+    {
+        "id": 6,
+        "name": "Classic Cheese",
+        "shortDescription":"Sweet & Juicy Golden corn and 100% real mozzarella cheese in a delectable combination !",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 195
+    },
+    {
+        "id": 7,
+        "name": "Classic Tomato",
+        "shortDescription":"A delectable combination of cheese and juicy tomato",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 165        
+    },
+    {
+        "id": 8,
+        "name": "Classic Tomato",
+        "shortDescription":"A delectable combination of cheese and juicy tomato",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 240
+    },
+    {
+        "id": 9,
+        "name": "Classic Tomato",
+        "shortDescription":"A delectable combination of cheese and juicy tomato",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 195
+    },
+    {
+        "id": 10,
+        "name": "Veggie Feast",
+        "shortDescription":"The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 215        
+    },
+    {
+        "id": 11,
+        "name": "Veggie Feast",
+        "shortDescription":"The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 290
+    },
+    {
+        "id": 12,
+        "name": "Veggie Feast",
+        "shortDescription":"The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 245
+    },
+    {
+        "id": 13,
+        "name": "Farmers Pick",
+        "shortDescription":"Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 395        
+    },
+    {
+        "id": 14,
+        "name": "Farmers Pick",
+        "shortDescription":"Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 494
+    },
+    {
+        "id": 15,
+        "name": "Farmers Pick",
+        "shortDescription":"Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 435
+    }
+]

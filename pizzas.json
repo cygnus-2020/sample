@@ -114,7 +114,7 @@
         "size":"Regular",
         "serves": 1,
         "crust":"Hand Tossed",
-        "price": 395        
+        "price": 215       
     },
     {
         "id": 14,
@@ -123,7 +123,7 @@
         "size":"Regular",
         "serves": 1,
         "crust":"Cheese Burst",
-        "price": 494
+        "price": 290
     },
     {
         "id": 15,
@@ -132,6 +132,502 @@
         "size":"Regular",
         "serves": 1,
         "crust":"Pan Pizza",
+        "price": 245
+    },
+    {
+        "id": 16,
+        "name": "Veggie Lover",
+        "shortDescription":"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 235        
+    },
+    {
+        "id": 17,
+        "name": "Veggie Lover",
+        "shortDescription":"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 310
+    },
+    {
+        "id": 18,
+        "name": "Veggie Lover",
+        "shortDescription":"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 265
+    },
+    {
+        "id": 19,
+        "name": "Tandoori Paneer",
+        "shortDescription":"Tandoori paneer with capsicum, red paprika & mint mayo",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 235        
+    },
+    {
+        "id": 20,
+        "name": "Tandoori Paneer",
+        "shortDescription":"Tandoori paneer with capsicum, red paprika & mint mayo",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 310
+    },
+    {
+        "id": 21,
+        "name": "Tandoori Paneer",
+        "shortDescription":"Tandoori paneer with capsicum, red paprika & mint mayo",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 265
+    },
+    {
+        "id": 22,
+        "name": "Kadhai Paneer",
+        "shortDescription":"Paneer chunks in your favourite spicy kadhai masala flavors, with toppings of onion & capsicum",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 99        
+    },
+    {
+        "id": 23,
+        "name": "Kadhai Paneer",
+        "shortDescription":"Paneer chunks in your favourite spicy kadhai masala flavors, with toppings of onion & capsicum",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 174
+    },
+    {
+        "id": 24,
+        "name": "Kadhai Paneer",
+        "shortDescription":"Paneer chunks in your favourite spicy kadhai masala flavors, with toppings of onion & capsicum",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 129
+    },
+    {
+        "id": 25,
+        "name": "Paneer Makhani",
+        "shortDescription":"Paneer and Capsicum on Makhani Sauce",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 215        
+    },
+    {
+        "id": 26,
+        "name": "Paneer Makhani",
+        "shortDescription":"Paneer and Capsicum on Makhani Sauce",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 290
+    },
+    {
+        "id": 27,
+        "name": "Paneer Makhani",
+        "shortDescription":"Paneer and Capsicum on Makhani Sauce",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 245
+    },
+    {
+        "id": 28,
+        "name": "Mexican Green Wave",
+        "shortDescription":"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Hand Tossed",
+        "price": 215        
+    },
+    {
+        "id": 29,
+        "name": "Mexican Green Wave",
+        "shortDescription":"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Cheese Burst",
+        "price": 290
+    },
+    {
+        "id": 30,
+        "name": "Mexican Green Wave",
+        "shortDescription":"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+        "size":"Regular",
+        "serves": 1,
+        "crust":"Pan Pizza",
+        "price": 245
+    },
+    {
+        "id": 31,
+        "name": "Margherita",
+        "shortDescription":"A classic delight with 100% Real mozzarella cheese",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 199        
+    },
+    {
+        "id": 32,
+        "name": "Margherita",
+        "shortDescription":"A classic delight with 100% Real mozzarella cheese",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 298
+    },
+    {
+        "id": 33,
+        "name": "Margherita",
+        "shortDescription":"A classic delight with 100% Real mozzarella cheese",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
+        "price": 239
+    },
+    {
+        "id": 34,
+        "name": "Classic Cheese",
+        "shortDescription":"Sweet & Juicy Golden corn and 100% real mozzarella cheese in a delectable combination !",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 305        
+    },
+    {
+        "id": 35,
+        "name": "Classic Cheese",
+        "shortDescription":"Sweet & Juicy Golden corn and 100% real mozzarella cheese in a delectable combination !",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 404
+    },
+    {
+        "id": 36,
+        "name": "Classic Cheese",
+        "shortDescription":"Sweet & Juicy Golden corn and 100% real mozzarella cheese in a delectable combination !",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
+        "price": 345
+    },
+    {
+        "id": 37,
+        "name": "Classic Tomato",
+        "shortDescription":"A delectable combination of cheese and juicy tomato",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 305        
+    },
+    {
+        "id": 38,
+        "name": "Classic Tomato",
+        "shortDescription":"A delectable combination of cheese and juicy tomato",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 404
+    },
+    {
+        "id": 39,
+        "name": "Classic Tomato",
+        "shortDescription":"A delectable combination of cheese and juicy tomato",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
+        "price": 345
+    },
+    {
+        "id": 40,
+        "name": "Veggie Feast",
+        "shortDescription":"The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 395        
+    },
+    {
+        "id": 41,
+        "name": "Veggie Feast",
+        "shortDescription":"The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 494
+    },
+    {
+        "id": 42,
+        "name": "Veggie Feast",
+        "shortDescription":"The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
         "price": 435
+    },
+    {
+        "id": 43,
+        "name": "Farmers Pick",
+        "shortDescription":"Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 395        
+    },
+    {
+        "id": 44,
+        "name": "Farmers Pick",
+        "shortDescription":"Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 494
+    },
+    {
+        "id": 45,
+        "name": "Farmers Pick",
+        "shortDescription":"Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
+        "price": 435
+    },
+    {
+        "id": 46,
+        "name": "Veggie Lover",
+        "shortDescription":"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 450        
+    },
+    {
+        "id": 47,
+        "name": "Veggie Lover",
+        "shortDescription":"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 549
+    },
+    {
+        "id": 48,
+        "name": "Veggie Lover",
+        "shortDescription":"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
+        "price": 490
+    },
+    {
+        "id": 49,
+        "name": "Tandoori Paneer",
+        "shortDescription":"Tandoori paneer with capsicum, red paprika & mint mayo",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 450        
+    },
+    {
+        "id": 50,
+        "name": "Tandoori Paneer",
+        "shortDescription":"Tandoori paneer with capsicum, red paprika & mint mayo",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 549
+    },
+    {
+        "id": 51,
+        "name": "Tandoori Paneer",
+        "shortDescription":"Tandoori paneer with capsicum, red paprika & mint mayo",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
+        "price": 490
+    },
+    {
+        "id": 52,
+        "name": "Kadhai Paneer",
+        "shortDescription":"Paneer chunks in your favourite spicy kadhai masala flavors, with toppings of onion & capsicum",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 450        
+    },
+    {
+        "id": 53,
+        "name": "Kadhai Paneer",
+        "shortDescription":"Paneer chunks in your favourite spicy kadhai masala flavors, with toppings of onion & capsicum",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 549
+    },
+    {
+        "id": 54,
+        "name": "Kadhai Paneer",
+        "shortDescription":"Paneer chunks in your favourite spicy kadhai masala flavors, with toppings of onion & capsicum",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
+        "price": 470
+    },
+    {
+        "id": 55,
+        "name": "Paneer Makhani",
+        "shortDescription":"Paneer and Capsicum on Makhani Sauce",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 395       
+    },
+    {
+        "id": 56,
+        "name": "Paneer Makhani",
+        "shortDescription":"Paneer and Capsicum on Makhani Sauce",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 494
+    },
+    {
+        "id": 57,
+        "name": "Paneer Makhani",
+        "shortDescription":"Paneer and Capsicum on Makhani Sauce",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
+        "price": 435
+    },
+    ,
+    {
+        "id": 58,
+        "name": "Mexican Green Wave",
+        "shortDescription":"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Hand Tossed",
+        "price": 395       
+    },
+    {
+        "id": 59,
+        "name": "Mexican Green Wave",
+        "shortDescription":"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Cheese Burst",
+        "price": 494
+    },
+    {
+        "id": 60,
+        "name": "Mexican Green Wave",
+        "shortDescription":"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+        "size":"Medium",
+        "serves": 2,
+        "crust":"Pan Pizza",
+        "price": 435
+    },
+    {
+        "id": 61,
+        "name": "Margherita",
+        "shortDescription":"A classic delight with 100% Real mozzarella cheese",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 395        
+    },    
+    {
+        "id": 62,
+        "name": "Classic Cheese",
+        "shortDescription":"Sweet & Juicy Golden corn and 100% real mozzarella cheese in a delectable combination !",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 495       
+    },   
+    {
+        "id": 63,
+        "name": "Classic Tomato",
+        "shortDescription":"A delectable combination of cheese and juicy tomato",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 495        
+    },    
+    {
+        "id": 64,
+        "name": "Veggie Feast",
+        "shortDescription":"The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 595        
+    },    
+    {
+        "id": 65,
+        "name": "Farmers Pick",
+        "shortDescription":"Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 595        
+    },    
+    {
+        "id": 66,
+        "name": "Veggie Lover",
+        "shortDescription":"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 695        
+    },    
+    {
+        "id": 67,
+        "name": "Tandoori Paneer",
+        "shortDescription":"Tandoori paneer with capsicum, red paprika & mint mayo",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 450        
+    },    
+    {
+        "id": 68,
+        "name": "Kadhai Paneer",
+        "shortDescription":"Paneer chunks in your favourite spicy kadhai masala flavors, with toppings of onion & capsicum",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 695       
+    },    
+    {
+        "id": 69,
+        "name": "Paneer Makhani",
+        "shortDescription":"Paneer and Capsicum on Makhani Sauce",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 595       
+    },    
+    {
+        "id": 70,
+        "name": "Mexican Green Wave",
+        "shortDescription":"Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+        "size":"Large",
+        "serves": 4,
+        "crust":"Hand Tossed",
+        "price": 580       
     }
 ]
